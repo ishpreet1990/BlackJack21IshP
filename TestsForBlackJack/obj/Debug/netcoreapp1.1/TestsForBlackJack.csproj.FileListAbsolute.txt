@@ -1,0 +1,14 @@
+c:\users\administrator\documents\visual studio 2017\Projects\BlackJack_21\TestsForBlackJack\bin\Debug\netcoreapp1.1\TestsForBlackJack.deps.json
+c:\users\administrator\documents\visual studio 2017\Projects\BlackJack_21\TestsForBlackJack\bin\Debug\netcoreapp1.1\TestsForBlackJack.runtimeconfig.json
+c:\users\administrator\documents\visual studio 2017\Projects\BlackJack_21\TestsForBlackJack\bin\Debug\netcoreapp1.1\TestsForBlackJack.runtimeconfig.dev.json
+c:\users\administrator\documents\visual studio 2017\Projects\BlackJack_21\TestsForBlackJack\obj\Debug\netcoreapp1.1\TestsForBlackJack.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\BlackJack_21\TestsForBlackJack\obj\Debug\netcoreapp1.1\TestsForBlackJack.AssemblyInfo.cs
+c:\users\administrator\documents\visual studio 2017\Projects\BlackJack_21\TestsForBlackJack\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\users\administrator\documents\visual studio 2017\Projects\BlackJack_21\TestsForBlackJack\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+c:\users\administrator\documents\visual studio 2017\Projects\BlackJack_21\TestsForBlackJack\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+c:\users\administrator\documents\visual studio 2017\Projects\BlackJack_21\TestsForBlackJack\bin\Debug\netcoreapp1.1\TestsForBlackJack.dll
+c:\users\administrator\documents\visual studio 2017\Projects\BlackJack_21\TestsForBlackJack\bin\Debug\netcoreapp1.1\TestsForBlackJack.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\BlackJack_21\TestsForBlackJack\bin\Debug\netcoreapp1.1\BlackJack_21.dll
+c:\users\administrator\documents\visual studio 2017\Projects\BlackJack_21\TestsForBlackJack\bin\Debug\netcoreapp1.1\BlackJack_21.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\BlackJack_21\TestsForBlackJack\obj\Debug\netcoreapp1.1\TestsForBlackJack.dll
+c:\users\administrator\documents\visual studio 2017\Projects\BlackJack_21\TestsForBlackJack\obj\Debug\netcoreapp1.1\TestsForBlackJack.pdb

@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2017\Projects\BlackJack_21\BlackJack_21\bin\Debug\netcoreapp1.1\BlackJack_21.deps.json
+c:\users\administrator\documents\visual studio 2017\Projects\BlackJack_21\BlackJack_21\bin\Debug\netcoreapp1.1\BlackJack_21.runtimeconfig.json
+c:\users\administrator\documents\visual studio 2017\Projects\BlackJack_21\BlackJack_21\bin\Debug\netcoreapp1.1\BlackJack_21.runtimeconfig.dev.json
+c:\users\administrator\documents\visual studio 2017\Projects\BlackJack_21\BlackJack_21\bin\Debug\netcoreapp1.1\BlackJack_21.dll
+c:\users\administrator\documents\visual studio 2017\Projects\BlackJack_21\BlackJack_21\bin\Debug\netcoreapp1.1\BlackJack_21.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\BlackJack_21\BlackJack_21\obj\Debug\netcoreapp1.1\BlackJack_21.AssemblyInfo.cs
+c:\users\administrator\documents\visual studio 2017\Projects\BlackJack_21\BlackJack_21\obj\Debug\netcoreapp1.1\BlackJack_21.dll
+c:\users\administrator\documents\visual studio 2017\Projects\BlackJack_21\BlackJack_21\obj\Debug\netcoreapp1.1\BlackJack_21.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\BlackJack_21\BlackJack_21\obj\Debug\netcoreapp1.1\BlackJack_21.csprojResolveAssemblyReference.cache
